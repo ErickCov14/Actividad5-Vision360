@@ -1,0 +1,6 @@
+﻿Corrida,Estado,F1 CV,F1 validacion,F1 prueba
+Evaluacion_Prueba_Random_Forest,FINISHED,,,0.6626898194640658
+Evaluacion_Prueba_Regresion_Logistica,FINISHED,,,0.5611015850334736
+Modelo_Final_Seleccionado,FINISHED,,,
+Random_Forest_GridSearch,FINISHED,0.6566500969826933,0.653402696788347,
+Regresion_Logistica_GridSearch,FINISHED,0.5519260337993359,0.565024813386368,

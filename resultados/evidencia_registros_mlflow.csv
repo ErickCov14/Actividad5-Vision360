@@ -1,0 +1,22 @@
+﻿Corrida MLflow,Estado,F1 CV,F1 validacion,F1 prueba,Modelo
+Modelo_Final_Seleccionado,FINISHED,,,,Random Forest
+Evaluacion_Prueba_Random_Forest,FINISHED,,,0.6626898194640658,
+Evaluacion_Prueba_Regresion_Logistica,FINISHED,,,0.5611015850334736,
+Modelo_Final_Seleccionado,FINISHED,,,,Random Forest
+Evaluacion_Prueba_Random_Forest,FINISHED,,,0.6626898194640658,
+Evaluacion_Prueba_Regresion_Logistica,FINISHED,,,0.5611015850334736,
+Random_Forest_GridSearch,FINISHED,0.6566500969826933,0.653402696788347,,Random Forest
+Regresion_Logistica_GridSearch,FINISHED,0.5519260337993359,0.565024813386368,,Regresion Logistica
+Evaluacion_Prueba_Random_Forest,FINISHED,,,0.6626898194640658,
+Evaluacion_Prueba_Regresion_Logistica,FINISHED,,,0.5611015850334736,
+Modelo_Final_Seleccionado,FINISHED,,,,Random Forest
+Evaluacion_Prueba_Random_Forest,FINISHED,,,0.6626898194640658,
+Evaluacion_Prueba_Regresion_Logistica,FINISHED,,,0.5611015850334736,
+Random_Forest_GridSearch,FINISHED,0.6566500969826933,0.653402696788347,,Random Forest
+Regresion_Logistica_GridSearch,FINISHED,0.5519260337993359,0.565024813386368,,Regresion Logistica
+Random_Forest_Modelo_Final,FINISHED,,,,Random Forest final
+Evaluacion_Prueba_Random_Forest,FINISHED,,,0.6372238514173998,
+Evaluacion_Prueba_Regresion_logistica,FINISHED,,,0.5611015850334736,
+Random_Forest_GridSearch_Final,FINISHED,0.6334996723535983,0.6563585013585014,,Random Forest
+Random_Forest_GridSearch,FAILED,0.6334996723535983,0.6563585013585014,,Random Forest
+Regresion_Logistica_GridSearch,FINISHED,0.5742864249836,0.565024813386368,,Regresion Logistica
